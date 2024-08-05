@@ -12,5 +12,20 @@
 
         solucion E:\personal\curso programacion\practicas\funciones01
          */
+
+        private string nombre;
+        private double salario;
+        private string departamento;
+        private int antiguedad;
+
+        public string Trabajar()
+        {
+            string retorno;
+
+            retorno = "";
+
+            return retorno;
+        }
+
     }
 }
