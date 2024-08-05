@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\formularios\\formcasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formcasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|e:\\personal\\curso programacion\\proyectos\\gestonrecursos\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|e:\\personal\\curso programacion\\proyectos\\gestonrecursos\\formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|e:\\personal\\curso programacion\\proyectos\\gestonrecursos\\formularios\\formcasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B915E73D-47EB-4E35-8E66-BCCD588C79C9}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formcasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCrear.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCrear.cs",
+              "RelativeDocumentMoniker": "Formularios\\FormCrear.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCrear.cs",
+              "RelativeToolTip": "Formularios\\FormCrear.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:45:16.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCasa.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCasa.cs",
+              "RelativeDocumentMoniker": "Formularios\\FormCasa.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCasa.cs",
+              "RelativeToolTip": "Formularios\\FormCasa.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:31:15.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCrear.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCrear.cs",
+              "RelativeDocumentMoniker": "Formularios\\FormCrear.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCrear.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FormCrear.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:19:23.356Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCasa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCasa.cs",
+              "RelativeDocumentMoniker": "Formularios\\FormCasa.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormCasa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FormCasa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:19:21.298Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Formularios\\FormPrincipal.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormPrincipal.cs",
+              "RelativeToolTip": "Formularios\\FormPrincipal.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:19:32.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Formularios\\FormPrincipal.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\GestonRecursos\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:18:08.648Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

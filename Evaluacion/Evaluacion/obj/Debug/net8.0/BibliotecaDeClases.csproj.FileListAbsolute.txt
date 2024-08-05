@@ -1,0 +1,11 @@
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\bin\Debug\net8.0\BibliotecaDeClases.deps.json
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\bin\Debug\net8.0\BibliotecaDeClases.dll
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\bin\Debug\net8.0\BibliotecaDeClases.pdb
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.AssemblyInfo.cs
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.dll
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\refint\BibliotecaDeClases.dll
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.pdb
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\ref\BibliotecaDeClases.dll
