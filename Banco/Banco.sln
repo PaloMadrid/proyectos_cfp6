@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librerias", "Librerias\Librerias.csproj", "{7C7FE65B-9A57-421A-A528-E278DE60840E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Librerias", "Librerias\Librerias.csproj", "{7C7FE65B-9A57-421A-A528-E278DE60840E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeo", "Testeo\Testeo.csproj", "{BB1410C9-1559-4089-B4FA-9475A87958C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7C7FE65B-9A57-421A-A528-E278DE60840E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C7FE65B-9A57-421A-A528-E278DE60840E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C7FE65B-9A57-421A-A528-E278DE60840E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1410C9-1559-4089-B4FA-9475A87958C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1410C9-1559-4089-B4FA-9475A87958C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1410C9-1559-4089-B4FA-9475A87958C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1410C9-1559-4089-B4FA-9475A87958C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

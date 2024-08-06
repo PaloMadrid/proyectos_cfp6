@@ -1,0 +1,10 @@
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.csproj.AssemblyReference.cache
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.FormCrear1.resources
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.FormEscribir1.resources
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.FormPrincipal1.resources
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.csproj.GenerateResource.cache
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.AssemblyInfoInputs.cache
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.AssemblyInfo.cs
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.csproj.CoreCompileInputs.cache
+E:\personal\curso programacion\proyectos\Lapiceras\FormsV1\obj\Debug\net8.0-windows\FormsV1.sourcelink.json

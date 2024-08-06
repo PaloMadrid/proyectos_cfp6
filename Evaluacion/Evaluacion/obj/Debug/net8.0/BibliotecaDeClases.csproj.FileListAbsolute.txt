@@ -9,3 +9,4 @@ E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\
 E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\refint\BibliotecaDeClases.dll
 E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.pdb
 E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\ref\BibliotecaDeClases.dll
+E:\personal\curso programacion\proyectos\Evaluacion\Evaluacion\obj\Debug\net8.0\BibliotecaDeClases.sourcelink.json

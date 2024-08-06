@@ -88,12 +88,8 @@ namespace Mis_Forms
         }
         private void CargarDGV()
         {
-
             this.dtg_partidas.DataSource = null;
             this.dtg_partidas.DataSource = this.partidas;
-
-
-
         }
 
         private void cargarPartida()

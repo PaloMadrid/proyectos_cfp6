@@ -1,0 +1,12 @@
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\bin\Debug\net8.0\LibreriasV1.deps.json
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\bin\Debug\net8.0\LibreriasV1.dll
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\bin\Debug\net8.0\LibreriasV1.pdb
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\LibreriasV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\LibreriasV1.AssemblyInfoInputs.cache
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\LibreriasV1.AssemblyInfo.cs
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\LibreriasV1.csproj.CoreCompileInputs.cache
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\LibreriasV1.sourcelink.json
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\LibreriasV1.dll
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\refint\LibreriasV1.dll
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\LibreriasV1.pdb
+E:\personal\curso programacion\proyectos\Lapiceras\LibreriasV1\obj\Debug\net8.0\ref\LibreriasV1.dll

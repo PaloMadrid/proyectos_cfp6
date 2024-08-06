@@ -22,3 +22,4 @@ E:\personal\curso programacion\proyectos\GestonRecursos\Formularios\obj\Debug\ne
 E:\personal\curso programacion\proyectos\GestonRecursos\Formularios\obj\Debug\net8.0-windows\ref\Formularios.dll
 E:\personal\curso programacion\proyectos\GestonRecursos\Formularios\obj\Debug\net8.0-windows\Formularios.Form1.resources
 E:\personal\curso programacion\proyectos\GestonRecursos\Formularios\obj\Debug\net8.0-windows\Formularios.Properties.Resources.resources
+E:\personal\curso programacion\proyectos\GestonRecursos\Formularios\obj\Debug\net8.0-windows\Formularios.sourcelink.json

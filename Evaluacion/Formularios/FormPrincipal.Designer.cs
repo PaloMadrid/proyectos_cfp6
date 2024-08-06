@@ -31,6 +31,7 @@
             btn_mostrar = new Button();
             btn_agregar = new Button();
             dtg_computadoras = new DataGridView();
+            btn_modificar = new Button();
             ((System.ComponentModel.ISupportInitialize)dtg_computadoras).BeginInit();
             SuspendLayout();
             // 
@@ -63,11 +64,21 @@
             dtg_computadoras.Size = new Size(762, 339);
             dtg_computadoras.TabIndex = 2;
             // 
+            // btn_modificar
+            // 
+            btn_modificar.Location = new Point(536, 402);
+            btn_modificar.Name = "btn_modificar";
+            btn_modificar.Size = new Size(75, 23);
+            btn_modificar.TabIndex = 4;
+            btn_modificar.Text = "Modificar";
+            btn_modificar.UseVisualStyleBackColor = true;
+            // 
             // FormPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btn_modificar);
             Controls.Add(btn_mostrar);
             Controls.Add(btn_agregar);
             Controls.Add(dtg_computadoras);
@@ -82,5 +93,6 @@
         private Button btn_mostrar;
         private Button btn_agregar;
         private DataGridView dtg_computadoras;
+        private Button btn_modificar;
     }
 }

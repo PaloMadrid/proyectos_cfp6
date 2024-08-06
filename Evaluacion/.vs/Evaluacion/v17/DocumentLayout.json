@@ -1,103 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|e:\\personal\\curso programacion\\proyectos\\evaluacion\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|e:\\personal\\curso programacion\\proyectos\\evaluacion\\formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B77749-A008-49A6-9D73-0C1AB0D681E3}|Evaluacion\\BibliotecaDeClases.csproj|e:\\personal\\curso programacion\\proyectos\\evaluacion\\evaluacion\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B77749-A008-49A6-9D73-0C1AB0D681E3}|Evaluacion\\BibliotecaDeClases.csproj|solutionrelative:evaluacion\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|e:\\personal\\curso programacion\\proyectos\\evaluacion\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|e:\\personal\\curso programacion\\proyectos\\evaluacion\\formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03E0E48C-D68B-46BD-AF71-6AE28EA6D858}|Formularios\\Formularios.csproj|solutionrelative:formularios\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 10,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormCrear.cs",
-              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormCrear.cs",
-              "RelativeDocumentMoniker": "Formularios\\FormCrear.cs",
-              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormCrear.cs",
-              "RelativeToolTip": "Formularios\\FormCrear.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAowBkAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:04:24.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "Formularios\\FormPrincipal.cs",
-              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\FormPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:19:00.78Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormCrear.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormCrear.cs",
-              "RelativeDocumentMoniker": "Formularios\\FormCrear.cs",
-              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormCrear.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\FormCrear.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:31:39.718Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "Formularios\\FormPrincipal.cs",
-              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Formularios\\FormPrincipal.cs",
-              "RelativeToolTip": "Formularios\\FormPrincipal.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:19:56.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Computadora.cs",
-              "DocumentMoniker": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Evaluacion\\Computadora.cs",
-              "RelativeDocumentMoniker": "Evaluacion\\Computadora.cs",
-              "ToolTip": "E:\\personal\\curso programacion\\proyectos\\Evaluacion\\Evaluacion\\Computadora.cs",
-              "RelativeToolTip": "Evaluacion\\Computadora.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAgwCQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:09:37.978Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

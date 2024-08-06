@@ -44,12 +44,16 @@
             cmbx_procesador = new ComboBox();
             label3 = new Label();
             label2 = new Label();
+            label5 = new Label();
+            label4 = new Label();
+            num_numeroDeSerie = new NumericUpDown();
             label1 = new Label();
             num_ram = new NumericUpDown();
             num_disco = new NumericUpDown();
             gpb_programas.SuspendLayout();
             gpb_so.SuspendLayout();
             gpb_datos.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)num_numeroDeSerie).BeginInit();
             ((System.ComponentModel.ISupportInitialize)num_ram).BeginInit();
             ((System.ComponentModel.ISupportInitialize)num_disco).BeginInit();
             SuspendLayout();
@@ -188,12 +192,15 @@
             gpb_datos.Controls.Add(cmbx_procesador);
             gpb_datos.Controls.Add(label3);
             gpb_datos.Controls.Add(label2);
+            gpb_datos.Controls.Add(label5);
+            gpb_datos.Controls.Add(label4);
+            gpb_datos.Controls.Add(num_numeroDeSerie);
             gpb_datos.Controls.Add(label1);
             gpb_datos.Controls.Add(num_ram);
             gpb_datos.Controls.Add(num_disco);
             gpb_datos.Location = new Point(41, 30);
             gpb_datos.Name = "gpb_datos";
-            gpb_datos.Size = new Size(340, 156);
+            gpb_datos.Size = new Size(340, 224);
             gpb_datos.TabIndex = 7;
             gpb_datos.TabStop = false;
             gpb_datos.Text = "Hardware";
@@ -201,8 +208,9 @@
             // cmbx_procesador
             // 
             cmbx_procesador.AccessibleDescription = "";
+            cmbx_procesador.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbx_procesador.FormattingEnabled = true;
-            cmbx_procesador.Location = new Point(129, 35);
+            cmbx_procesador.Location = new Point(123, 88);
             cmbx_procesador.Name = "cmbx_procesador";
             cmbx_procesador.Size = new Size(189, 23);
             cmbx_procesador.TabIndex = 0;
@@ -210,7 +218,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(22, 108);
+            label3.Location = new Point(16, 161);
             label3.Name = "label3";
             label3.Size = new Size(36, 15);
             label3.TabIndex = 3;
@@ -219,16 +227,43 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(22, 72);
+            label2.Location = new Point(16, 125);
             label2.Name = "label2";
             label2.Size = new Size(82, 15);
             label2.TabIndex = 2;
             label2.Text = "Memoria Ram";
             // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(16, -21);
+            label5.Name = "label5";
+            label5.Size = new Size(66, 15);
+            label5.TabIndex = 1;
+            label5.Text = "Procesador";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(16, 55);
+            label4.Name = "label4";
+            label4.Size = new Size(95, 15);
+            label4.TabIndex = 1;
+            label4.Text = "Numero de Serie";
+            // 
+            // num_numeroDeSerie
+            // 
+            num_numeroDeSerie.Location = new Point(123, 53);
+            num_numeroDeSerie.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            num_numeroDeSerie.Name = "num_numeroDeSerie";
+            num_numeroDeSerie.Size = new Size(189, 23);
+            num_numeroDeSerie.TabIndex = 1;
+            num_numeroDeSerie.Value = new decimal(new int[] { 1, 0, 0, 0 });
+            // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(22, 38);
+            label1.Location = new Point(16, 91);
             label1.Name = "label1";
             label1.Size = new Size(66, 15);
             label1.TabIndex = 1;
@@ -236,7 +271,7 @@
             // 
             // num_ram
             // 
-            num_ram.Location = new Point(129, 70);
+            num_ram.Location = new Point(123, 123);
             num_ram.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             num_ram.Name = "num_ram";
             num_ram.Size = new Size(189, 23);
@@ -245,7 +280,7 @@
             // 
             // num_disco
             // 
-            num_disco.Location = new Point(129, 106);
+            num_disco.Location = new Point(123, 159);
             num_disco.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             num_disco.Name = "num_disco";
             num_disco.Size = new Size(189, 23);
@@ -271,6 +306,7 @@
             gpb_so.PerformLayout();
             gpb_datos.ResumeLayout(false);
             gpb_datos.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)num_numeroDeSerie).EndInit();
             ((System.ComponentModel.ISupportInitialize)num_ram).EndInit();
             ((System.ComponentModel.ISupportInitialize)num_disco).EndInit();
             ResumeLayout(false);
@@ -297,5 +333,8 @@
         private NumericUpDown num_disco;
         private ComboBox cmbx_procesador;
         private NumericUpDown num_ram;
+        private Label label5;
+        private Label label4;
+        private NumericUpDown num_numeroDeSerie;
     }
 }

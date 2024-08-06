@@ -1,0 +1,12 @@
+E:\personal\curso programacion\proyectos\Banco\Librerias\bin\Debug\net8.0\Librerias.deps.json
+E:\personal\curso programacion\proyectos\Banco\Librerias\bin\Debug\net8.0\Librerias.dll
+E:\personal\curso programacion\proyectos\Banco\Librerias\bin\Debug\net8.0\Librerias.pdb
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\Librerias.GeneratedMSBuildEditorConfig.editorconfig
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\Librerias.AssemblyInfoInputs.cache
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\Librerias.AssemblyInfo.cs
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\Librerias.csproj.CoreCompileInputs.cache
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\Librerias.sourcelink.json
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\Librerias.dll
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\refint\Librerias.dll
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\Librerias.pdb
+E:\personal\curso programacion\proyectos\Banco\Librerias\obj\Debug\net8.0\ref\Librerias.dll

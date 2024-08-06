@@ -19,3 +19,5 @@ E:\personal\curso programacion\proyectos\Evaluacion\Formularios\obj\Debug\net8.0
 E:\personal\curso programacion\proyectos\Evaluacion\Formularios\obj\Debug\net8.0-windows\Formularios.pdb
 E:\personal\curso programacion\proyectos\Evaluacion\Formularios\obj\Debug\net8.0-windows\Formularios.genruntimeconfig.cache
 E:\personal\curso programacion\proyectos\Evaluacion\Formularios\obj\Debug\net8.0-windows\ref\Formularios.dll
+E:\personal\curso programacion\proyectos\Evaluacion\Formularios\obj\Debug\net8.0-windows\Formularios.sourcelink.json
+E:\personal\curso programacion\proyectos\Evaluacion\Formularios\obj\Debug\net8.0-windows\Formularios.FormModificar.resources

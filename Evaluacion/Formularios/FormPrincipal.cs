@@ -4,7 +4,7 @@ namespace Formularios
 {
     public partial class FormPrincipal : Form
     {
-       private List<Computadora> misPcs;
+        private List<Computadora> misPcs;
         public FormPrincipal()
         {
             InitializeComponent();
@@ -42,5 +42,26 @@ namespace Formularios
 
         }
 
+        private void btn_modificar_Click(object sender, EventArgs e)
+        {
+            if (dtg_computadoras.SelectedRows.Count == 1)
+            {
+
+                Computadora pcSeleccionada = (Computadora)dtg_computadoras.CurrentRow.DataBoundItem;
+
+                //Computadora pcSeleccionada = (Computadora)dtg_computadoras.CurrentRow.DataBoundItem as Computadora;
+
+                FormModificar formModificar = new FormModificar(pcSeleccionada);
+                formModificar.ShowDialog();
+
+                if (formModificar.DialogResult == DialogResult.OK)
+                {
+                    int index = this.misPcs.FindIndex(x => x.NumeroDeSerie == formModificar.MiPC.NumeroDeSerie);
+
+                    this.misPcs[index] = formModificar.MiPC;
+                }
+            }
+
+        }
     }
 }

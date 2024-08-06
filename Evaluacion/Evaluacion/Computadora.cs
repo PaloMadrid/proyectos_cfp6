@@ -4,15 +4,17 @@ namespace Evaluacion
 {
     public class Computadora
     {
+        int numeroDeSerie;
         int capacidadDisco;
         int memoriaRam;
         string procesador;
         List<string> programas;
         string so;
 
-        public Computadora(int capacidadDisco, int memoriaRam, string procesador, string so)
+        public Computadora(int capacidadDisco, int memoriaRam, string procesador, string so,int numeroDeSerie)
             : this()
         {
+            this.numeroDeSerie = numeroDeSerie;
             this.capacidadDisco = capacidadDisco;
             this.memoriaRam = memoriaRam;
             this.procesador = procesador;
@@ -22,6 +24,7 @@ namespace Evaluacion
         private Computadora()
         {
             this.programas = new List<string>();
+            
         }
 
         public int CapacidadDisco { get => capacidadDisco; }
@@ -31,18 +34,26 @@ namespace Evaluacion
         {
             get
             {
-                StringBuilder sb = new StringBuilder();
-
-                foreach (string programa in programas)
+                string cadena = "";
+                for (int i = 0; i < this.programas.Count; i++)
                 {
-                    sb.Append(programa + ", ");
-
+                    foreach (string programa in programas)
+                    {
+                        if (i < programas.Count)
+                        {
+                            cadena+=programa + ", ";
+                        }
+                        else
+                        {
+                            cadena += programa;
+                        }
+                    }
                 }
-
-                return sb.ToString();
+                return cadena;
             }
         }
         public string So { get => so; }
+        public int NumeroDeSerie { get => numeroDeSerie; set => numeroDeSerie = value; }
 
         public List<string> GetProgramas()
         {
@@ -63,6 +74,18 @@ namespace Evaluacion
              };
 
             return ret;
+        }
+
+        public void CargarProgramasDesdeUnString(string programas)
+        {
+            //List<string> list = new List<string>();
+
+            //separa la cadena con la cadena ", " en caso de un solo caracter ',' por medio del metodo split
+            //list.AddRange(programas.Split(", "));
+
+            //this.programas=list;
+            string separador = ", ";
+            this.programas.AddRange(programas.Split(separador));
         }
 
 

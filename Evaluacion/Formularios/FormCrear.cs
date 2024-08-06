@@ -28,11 +28,14 @@ namespace Formularios
 
         private void btn_agregar_Click(object sender, EventArgs e)
         {
-            string procesador = this.cmbx_procesador.SelectedItem.ToString();
+            int numeroDeSerie=(int)num_numeroDeSerie.Value;
+            string procesador = string.Empty;
             int ram = (int)this.num_ram.Value;
             int disco = (int)this.num_disco.Value;
-            string so = null;
+            string so = string.Empty;
             string programa;
+
+            procesador = this.cmbx_procesador.SelectedItem.ToString();
 
             foreach (RadioButton item in this.gpb_so.Controls)
             {
@@ -48,8 +51,7 @@ namespace Formularios
 
                 if (validarDatos(so, "Seleccione un Sistema Operativo"))
                 {
-
-                    this.miPC = new Computadora(disco, ram, procesador, so);
+                    this.miPC = new Computadora(disco, ram, procesador, so,numeroDeSerie);
 
                     foreach (CheckBox item in this.gpb_programas.Controls)
                     {
@@ -66,10 +68,8 @@ namespace Formularios
 
                 }
             }
-
-
-
         }
+
         private void btn_cancelar_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.Cancel;
